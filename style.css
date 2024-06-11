@@ -6,7 +6,7 @@
   /* setup das variaveis*/
   :root {
     --verde-fundo: #07b578;
-    --branco-principal: #ffffff;
+    --branco-principal: #030303;
     --fonte-principal: "Lustria";
     --verde-principal: #5fb13b;
     --azul-principal: #0169b4;
@@ -30,7 +30,7 @@
     color: var(--link);
   }
   a.cabecalho__botao:link {
-    color: #fff;
+    color: #0f0d0d;
   }
   a:visited {
     color: var(--branco-principal);
@@ -87,7 +87,7 @@
     height: 30px;
     color: #0010ec;
     padding: 20px;
-    border: 5px solid #ff0000;
+    border: 5px solid #ffffff;
   }
   
   /* estilo seção 1*/
